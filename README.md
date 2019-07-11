@@ -1,0 +1,2 @@
+# phaser_example_ts
+用Typescript自学phaser3的示例
